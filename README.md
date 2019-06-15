@@ -17,3 +17,6 @@
 	```
 	python -m twine upload dist/*
 	```
+
+
+[https://packaging.python.org/tutorials/packaging-projects/](https://packaging.python.org/tutorials/packaging-projects/)
